@@ -47,8 +47,13 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+![image](https://github.com/user-attachments/assets/08fa4a73-2cf8-444b-89d2-2c490d6c9b38)
+
+![WhatsApp Image 2025-04-17 at 16 31 33_0fb5ccad](https://github.com/user-attachments/assets/307624c5-e45c-4a5d-ab63-6d73a42ed1b8)
+
+
+### Name: RAVIVARMAN VV
+### Register Number:212224240133
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
